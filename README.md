@@ -1,0 +1,2 @@
+# Metotlar
+ patika.dev
